@@ -17,6 +17,15 @@ DB_DATABASE=cash_plus
 DB_USERNAME=root
 DB_PASSWORD=
 
+## Database Setup
+
+Create a MySQL database:
+
+cash_plus
+
+Then run:
+php artisan migrate --seed
+
 ### 4. Run migrations + seed data
 php artisan migrate --seed
 
