@@ -8,4 +8,6 @@
 
 1- cd backend
 2- composer install
-3- php artisan serve.
+3- php artisan serve
+
+Thanks.
